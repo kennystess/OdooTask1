@@ -1,0 +1,3 @@
+{
+    'name': 'Odoo University Library',
+}
